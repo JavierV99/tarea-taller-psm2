@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void main(void) {
-	printf("hola mundo"); // en esta linea de codigo se imprime hola mundo 
+	printf("este es mi primera prueba"); // en esta linea de codigo se imprime esta es mi primera prueba  
 }
