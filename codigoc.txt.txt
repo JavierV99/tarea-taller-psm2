@@ -3,4 +3,6 @@
 void main(void) {
 	printf("Hola mundo"); // debe iniciar con hola mundo JV
 	printf("primera prueba"); // en esta linea de codigo se imprime esta es mi primera prueba  
+
+return 0;
 }
