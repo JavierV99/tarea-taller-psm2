@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 void main(void) {
-	printf("Hola mundo"); // debe iniciar con hola mundo JV
-	printf("primera prueba"); // en esta linea de codigo se imprime esta es mi primera prueba  
-
+	printf("Hola mundo"); // debe iniciar con hola mundo JV 
+	printf("segunda prueba exitosa");// probando segund branch 
 return 0;
 }
