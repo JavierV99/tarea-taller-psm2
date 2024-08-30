@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 void main(void) {
-	printf("este es mi primera prueba"); // en esta linea de codigo se imprime esta es mi primera prueba  
+	printf("Hola mundo"); // debe iniciar con hola mundo JV
+	printf("primera prueba"); // en esta linea de codigo se imprime esta es mi primera prueba  
 }
